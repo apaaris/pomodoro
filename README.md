@@ -1,3 +1,3 @@
 # pomodoro
-Pomodoro Time Manager, proudly written in Python.
-Highly depends on the tqdm library.
+Pomodoro Time Manager, written in Python.
+Requires the tqdm library.
